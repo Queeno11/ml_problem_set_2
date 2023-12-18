@@ -53,7 +53,7 @@ def plot_confusion_matrix(y_val_true, y_val_pred, name=""):
 def lgb_plot_metrics(evals_result):
     print("Plotting metrics recorded during training...")
     ax = lgb.plot_metric(evals_result, metric="f1")
-    plt.savefig("figs/lgb_metrics.png")
+    plt.savefig("views/lgb_metrics.png")
 
 
 def lgb_plot_importance(model, X, num=20, fig_size=(40, 20)):
