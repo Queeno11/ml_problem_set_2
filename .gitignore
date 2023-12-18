@@ -1,15 +1,11 @@
-/*
+
 !.gitignore
-!/scripts
-/scripts/_old
-/logs
 *.dbf
 *.cpg
 *.shp
 *.shx
 *.prj
 *.svg
-*.png
 *.pyc
 *.qgz
 *.dbf
@@ -27,7 +23,6 @@
 *.db
 *.json
 *.html
-*.png
 *.txt
 *.rar
 *.zip
@@ -38,6 +33,5 @@
 *.mkv
 *.mp4
 *.csv
-*.png
 *.jpg
 *.tif
