@@ -9,11 +9,12 @@ Este repositorio contiene el material relacionado con el segundo trabajo prácti
 - documents: En esta carpeta, encontrarás el documento principal en formato PDF que describe el trabajo práctico. Este documento proporciona una visión general del problema, los objetivos del trabajo y los resultados obtenidos.
 - views: En esta carpeta, se almacenan las figuras y tablas generadas durante el análisis. Estas vistas ofrecen una representación visual de los resultados y contribuyen a la comprensión de los hallazgos.
 
-## Instrucciones de Uso
-
 ## Resultados de los modelos utilizados sobre el conjunto de validación (promedio 5 KFold):
 
 ![alt text](https://github.com/Queeno11/ml_problem_set_2/blob/5ab3526a4745141264f6878c3a2702ebfa0a5961/views/modelresults.png)
+
+## Instrucciones de Uso
+
 
 ### Clonación del Repositorio:
 
