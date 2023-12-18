@@ -11,7 +11,7 @@ Este repositorio contiene el material relacionado con el segundo trabajo prácti
 
 ## Resultados de los modelos utilizados sobre el conjunto de validación (promedio 5 KFold):
 
-![alt text](https://github.com/Queeno11/ml_problem_set_2/blob/5ab3526a4745141264f6878c3a2702ebfa0a5961/views/modelresults.png)
+![alt text](https://github.com/Queeno11/ml_problem_set_2/blob/afba0a8871212beb657b69970be115e717edbf25/views/modelresults.png)
 
 ## Instrucciones de Uso
 
